@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C9FF,100:92FE9D&text=Reza&fontColor=1A1A1A&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer&descAlign=50&descAlignY=65" alt="banner" />
 </p>
 
-<h1 align="center">سلام! من رضا 👋 </h1>
+<h1 align="center">سلام! من رضا ام 👋 </h1>
 <p align="center">
   توسعه‌دهندهٔ فرانت‌اند | عاشق React | در مسیر حرفه‌ای‌تر شدن با TypeScript و Tailwind
 </p>
