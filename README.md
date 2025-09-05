@@ -1,5 +1,4 @@
-<!-- PROFILE README for rezamobiny -->
-<!-- ساخت ریپو با نام کاربری‌ات (rezamobiny) و قرار دادن این فایل به اسم README.md -->
+
 
 <h1 align="center">سلام! من رضا مبینی‌ام 👋</h1>
 <p align="center">
@@ -53,16 +52,6 @@
 - تست فرانت‌اند (Jest, React Testing Library)  
 - پایه‌های بیشتر Node/Express برای APIهای ساده
 
----
-
-## چند پروژه‌ی پیشنهادی برای پین کردن
-> برو به پروفایل → Customize your pins و این‌ها یا مشابه‌شون رو پین کن تا کارت ویزیت تمیزتری داشته باشی.
-- **UI Component Playground** – مجموعه کامپوننت‌های ری‌اکتی با Tailwind  
-- **React + TS Starter** – تمپلیت شخصی با Vite، ESLint، Prettier  
-- **Small Dashboard** – داشبورد با چارت، جدول، فیلتر و auth ماک  
-- **Landing Page Kit** – چند لندینگ رسپانسیو با Bootstrap/Tailwind  
-
----
 
 ## آمار گیت‌هاب
 <p align="center">
@@ -87,4 +76,3 @@
 - 📧 ایمیل: **rezamobiny1381@gmail.com**  
 - 🐙 گیت‌هاب: **[@rezamobiny](https://github.com/rezamobiny)**
 
-<!-- اگر لینکدین/سایت داری این‌جا اضافه کن -->
