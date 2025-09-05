@@ -1,57 +1,73 @@
 
-
-<h1 align="center">سلام! من رضا مبینی‌ام 👋</h1>
 <p align="center">
-  توسعه‌دهنده فرانت‌اند | عاشق React | در مسیر حرفه‌ای‌تر شدن با TypeScript و Tailwind
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C9FF,100:92FE9D&text=Reza&fontColor=1A1A1A&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer&descAlign=50&descAlignY=65" alt="banner" />
+</p>
+
+<h1 align="center">سلام! من رضا 👋 </h1>
+<p align="center">
+  توسعه‌دهندهٔ فرانت‌اند | عاشق React | در مسیر حرفه‌ای‌تر شدن با TypeScript و Tailwind
 </p>
 
 <p align="center">
-  <a href="mailto:rezamobiny1381@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rezamobiny1381%40gmail.com-red?logo=gmail"></a>
-  <a href="https://github.com/rezamobiny"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-rezamobiny-181717?logo=github"></a>
+  <a href="mailto:rezamobiny1381@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-rezamobiny1381%40gmail.com-EA4335?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/rezamobiny">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@rezamobiny-26A5E4?logo=telegram&logoColor=white">
+  </a>
+  <a href="https://github.com/rezamobiny">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rezamobiny-181717?logo=github&logoColor=white">
+  </a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rezamobiny&label=بازدیدها&style=flat">
 </p>
 
 ---
 
 ## درباره‌ی من
-- 🚀 فرانت‌اند دولوپر با تمرکز روی **React**  
-- 🧩 تجربه با: HTML, CSS, JavaScript, **TypeScript (در حال تقویت)**  
-- 🎨 استایلینگ با: **Tailwind CSS (در حال یادگیری)**، Bootstrap، کمی jQuery  
-- 🛠️ آشنایی خیلی کم با **Node.js** برای کارهای ساده  
-- 📦 عاشق ساخت UI‌های تمیز، بهینه و قابل نگه‌داری  
-- 🤝 باز برای همکاری روی پروژه‌های React/TS
+<div dir="rtl" align="right">
+
+- 🚀 فرانت‌اند دولوپر با تمرکز روی **React**
+- 🧩 تجربه با: HTML, CSS, JavaScript، **TypeScript (در حال تقویت)**
+- 🎨 استایلینگ با: **Tailwind CSS (در حال یادگیری)**، Bootstrap، کمی jQuery
+- 🛠️ آشنایی خیلی کم با **Node.js** برای کارهای ساده
+- 📦 علاقه‌مند به ساخت UIهای تمیز، سریع و قابل نگه‌داری
+- 🤝 آمادهٔ همکاری روی پروژه‌های React/TS
+
+</div>
 
 ---
 
-## تکنولوژی‌ها و ابزارها
-<p>
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+## مهارت‌ها و ابزارها
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,jquery,nodejs,vite,git,github,vscode&perline=7" alt="skills" />
 </p>
 
 ---
 
 ## الان مشغول یادگیریِ 👇
+<div dir="rtl" align="right">
+
 - TypeScript پیشرفته در پروژه‌های React  
 - الگوهای معماری فرانت (Atomic Design, Feature Slices)  
 - Next.js و رندر سمت سرور  
 - تست فرانت‌اند (Jest, React Testing Library)  
 - پایه‌های بیشتر Node/Express برای APIهای ساده
 
+</div>
+
+---
+
+## اصول کاری من
+<div dir="rtl" align="right">
+
+- کدنویسی خوانا و ماژولار، توجه به UX و دیتیل‌ها  
+- مدیریت استیت منطقی و پرهیز از پیچیدگی غیرضروری  
+- ساختار پوشه‌ها و معماری قابل‌گسترش برای تیم‌های بزرگ  
+- مستندسازی کوتاه و مفید + ارتباط شفاف
+
+</div>
+
+---
 
 ## آمار گیت‌هاب
 <p align="center">
@@ -64,15 +80,15 @@
 
 ---
 
-## ارزش‌هایی که به تیم می‌آورم
-- کدنویسی تمیز و خوانا، توجه به UX و جزئیات  
-- فکر کردن به مقیاس‌پذیری UI و ساختار‌دهی پوشه‌ها/کامپوننت‌ها  
-- مدیریت استیت منطقی و پرهیز از پیچیدگی غیرضروری  
-- ارتباط مؤثر، مستندسازی کوتاه و مفید، و روحیه‌ی همکاری
-
----
-
 ## ارتباط با من
-- 📧 ایمیل: **rezamobiny1381@gmail.com**  
-- 🐙 گیت‌هاب: **[@rezamobiny](https://github.com/rezamobiny)**
+<div dir="rtl" align="right">
 
+- 📧 **Email:** <a href="mailto:rezamobiny1381@gmail.com">rezamobiny1381@gmail.com</a>  
+- 💬 **Telegram:** <a href="https://t.me/rezamobiny">@itaidenx</a>  
+- 🐙 **GitHub:** <a href="https://github.com/rezamobiny">@rezamobiny</a>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=footer&color=0:92FE9D,100:00C9FF&height=60" alt="footer" />
+</p>
