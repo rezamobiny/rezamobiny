@@ -93,6 +93,4 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&section=footer&color=0:92FE9D,100:00C9FF&height=60" alt="footer" />
 </p>
 
-
-این پروفایل read me برای گیت هاب من هستش متن و همه چیز رو بخور و برای من زیبا تر و بهتر کن 
-چون میخام برای رزومه اماده باشه 
+ 
