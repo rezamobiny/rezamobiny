@@ -1,11 +1,10 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C9FF,100:92FE9D&text=Reza&fontColor=1A1A1A&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer&descAlign=50&descAlignY=65" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C9FF,100:92FE9D&text=Reza%20Mobiny&fontColor=1A1A1A&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer&descAlign=50&descAlignY=65" alt="banner" />
 </p>
 
-<h1 align="center">سلام! من رضا ام 👋 </h1>
+<h1 align="center">سلام 👋 من رضا مبینی‌ام</h1>
 <p align="center">
-  توسعه‌دهندهٔ فرانت‌اند | عاشق React | در مسیر حرفه‌ای‌تر شدن با TypeScript و Tailwind
+  فرانت‌اند دولوپر | عاشق React | در مسیر حرفه‌ای‌تر شدن با TypeScript و Next.js
 </p>
 
 <p align="center">
@@ -23,53 +22,53 @@
 
 ---
 
-## درباره‌ی من
+## 🚀 درباره من  
 <div dir="rtl" align="right">
 
-- 🚀 فرانت‌اند دولوپر با تمرکز روی **React**
-- 🧩 تجربه با: HTML, CSS, JavaScript، **TypeScript (در حال تقویت)**
-- 🎨 استایلینگ با: **Tailwind CSS (در حال یادگیری)**، Bootstrap، کمی jQuery
-- 🛠️ آشنایی خیلی کم با **Node.js** برای کارهای ساده
-- 📦 علاقه‌مند به ساخت UIهای تمیز، سریع و قابل نگه‌داری
-- 🤝 آمادهٔ همکاری روی پروژه‌های React/TS
+- 🎯 توسعه‌دهنده **Frontend** با تمرکز بر React و TypeScript  
+- 🧩 تجربه کار با: HTML, CSS, JavaScript، **TypeScript**، React  
+- 🎨 مهارت در استایل‌دهی با: **Tailwind CSS**، Bootstrap، کمی jQuery  
+- ⚡ آشنایی پایه‌ای با **Node.js / Express** برای ساخت APIهای ساده  
+- 💡 علاقه‌مند به ساخت رابط‌های کاربری مدرن، مقیاس‌پذیر و کاربرپسند  
 
 </div>
 
 ---
 
-## مهارت‌ها و ابزارها
+## 🛠️ مهارت‌ها و ابزارها  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,jquery,nodejs,vite,git,github,vscode&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,jquery,nodejs,vite,git,github,vscode&perline=7" alt="skills" />
 </p>
 
 ---
 
-## الان مشغول یادگیریِ 👇
+## 📚 در حال یادگیری
 <div dir="rtl" align="right">
 
-- TypeScript پیشرفته در پروژه‌های React  
-- الگوهای معماری فرانت (Atomic Design, Feature Slices)  
-- Next.js و رندر سمت سرور  
-- تست فرانت‌اند (Jest, React Testing Library)  
-- پایه‌های بیشتر Node/Express برای APIهای ساده
+- TypeScript پیشرفته در پروژه‌های واقعی  
+- معماری‌های مدرن فرانت‌اند (Atomic Design, Feature Slices)  
+- Next.js و مفاهیم SSR/SSG  
+- تست‌نویسی با Jest و React Testing Library  
+- توسعه Fullstack ساده با Node.js/Express  
 
 </div>
 
 ---
 
-## اصول کاری من
+## 💼 اصول کاری من
 <div dir="rtl" align="right">
 
-- کدنویسی خوانا و ماژولار، توجه به UX و دیتیل‌ها  
-- مدیریت استیت منطقی و پرهیز از پیچیدگی غیرضروری  
-- ساختار پوشه‌ها و معماری قابل‌گسترش برای تیم‌های بزرگ  
-- مستندسازی کوتاه و مفید + ارتباط شفاف
+- ✨ کدنویسی تمیز، ماژولار و خوانا  
+- 🎨 توجه به تجربه کاربری (UX) و جزئیات  
+- 🧩 مدیریت استیت بهینه و دوری از پیچیدگی غیرضروری  
+- 📂 ساختاردهی پروژه‌ها برای تیم‌های بزرگ  
+- 📝 مستندسازی کوتاه، دقیق و کاربردی  
 
 </div>
 
 ---
 
-## آمار گیت‌هاب
+## 📊 آمار فعالیت من در گیت‌هاب
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rezamobiny&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=rezamobiny&theme=radical&hide_border=true" />
@@ -80,11 +79,11 @@
 
 ---
 
-## ارتباط با من
+## 📬 ارتباط با من
 <div dir="rtl" align="right">
 
 - 📧 **Email:** <a href="mailto:rezamobiny1381@gmail.com">rezamobiny1381@gmail.com</a>  
-- 💬 **Telegram:** <a href="https://t.me/rezamobiny">@itaidenx</a>  
+- 💬 **Telegram:** <a href="https://t.me/rezamobiny">@rezamobiny</a>  
 - 🐙 **GitHub:** <a href="https://github.com/rezamobiny">@rezamobiny</a>
 
 </div>
