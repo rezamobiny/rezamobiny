@@ -1,10 +1,11 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00C9FF,100:92FE9D&text=Reza&fontColor=1A1A1A&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer&descAlign=50&descAlignY=65" alt="banner" />
 </p>
 
-<h1 align="center">Hi, I'm Reza 👋</h1>
+<h1 align="center">سلام! من رضا ام 👋 </h1>
 <p align="center">
-  ⚛️ Frontend Developer | **React** Enthusiast | Leveling up with **TypeScript** and **Tailwind CSS**
+  توسعه‌دهندهٔ فرانت‌اند | عاشق React | در مسیر حرفه‌ای‌تر شدن با TypeScript و Tailwind
 </p>
 
 <p align="center">
@@ -17,57 +18,58 @@
   <a href="https://github.com/rezamobiny">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rezamobiny-181717?logo=github&logoColor=white">
   </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rezamobiny&label=Profile%20Views&style=flat">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rezamobiny&label=بازدیدها&style=flat">
 </p>
 
 ---
 
-## 👨‍💻 About Me
-<div dir="ltr" align="left">
+## درباره‌ی من
+<div dir="rtl" align="right">
 
-- 🚀 Passionate Frontend Developer with a core focus on **React**.
-- 💡 Experience in crafting clean, high-performance, and maintainable user interfaces.
-- 🎨 Skilled in modern styling using **Tailwind CSS**.
-- 🎯 Currently diving deep into advanced **TypeScript** patterns and scalable architecture.
-- 🤝 Open to collaboration on challenging React and TypeScript projects.
+- 🚀 فرانت‌اند دولوپر با تمرکز روی **React**
+- 🧩 تجربه با: HTML, CSS, JavaScript، **TypeScript (در حال تقویت)**
+- 🎨 استایلینگ با: **Tailwind CSS **، Bootstrap، jQuery
+- 🛠️ آشنایی خیلی کم با **Node.js** برای کارهای ساده
+- 📦 علاقه‌مند به ساخت UIهای تمیز، سریع و قابل نگه‌داری
+- 🤝 آمادهٔ همکاری روی پروژه‌های React/TS
 
 </div>
 
 ---
 
-## 🛠️ My Tech Stack
+## مهارت‌ها و ابزارها
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,jquery,nodejs,vite,git,github,vscode&perline=7" alt="skills" />
 </p>
 
 ---
 
-## 📚 Currently Leveling Up
-<div dir="ltr" align="left">
+## الان مشغول یادگیریِ 👇
+<div dir="rtl" align="right">
 
-- **Advanced TypeScript** in complex React applications.
-- Frontend Architecture (e.g., **Feature Slices**, Atomic Design).
-- Server-Side Rendering with **Next.js**.
-- Frontend Testing (Jest, React Testing Library).
-- Basic **Node.js/Express** for simple API development.
-
-</div>
-
----
-
-## 🌟 Development Principles
-<div dir="ltr" align="left">
-
-- **Readability & Modularity:** Writing clean, documented, and reusable code.
-- **Performance:** Attention to detail and optimized UX.
-- **State Management:** Logical state flow to avoid unnecessary complexity.
-- **Scalability:** Building folder structures and architecture that can grow with the team.
+- TypeScript پیشرفته در پروژه‌های React  
+- الگوهای معماری فرانت (Atomic Design, Feature Slices)  
+- Next.js و رندر سمت سرور  
+- تست فرانت‌اند (Jest, React Testing Library)  
+- پایه‌های بیشتر Node/Express برای APIهای ساده
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## اصول کاری من
+<div dir="rtl" align="right">
+
+- کدنویسی خوانا و ماژولار، توجه به UX و دیتیل‌ها  
+- مدیریت استیت منطقی و پرهیز از پیچیدگی غیرضروری  
+- ساختار پوشه‌ها و معماری قابل‌گسترش برای تیم‌های بزرگ  
+- مستندسازی کوتاه و مفید + ارتباط شفاف
+
+</div>
+
+---
+
+## آمار گیت‌هاب
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rezamobiny&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=rezamobiny&theme=radical&hide_border=true" />
@@ -78,11 +80,11 @@
 
 ---
 
-## 📫 Get In Touch
-<div dir="ltr" align="left">
+## ارتباط با من
+<div dir="rtl" align="right">
 
 - 📧 **Email:** <a href="mailto:rezamobiny1381@gmail.com">rezamobiny1381@gmail.com</a>  
-- 💬 **Telegram:** <a href="https://t.me/rezamobiny">@rezamobiny</a>  
+- 💬 **Telegram:** <a href="https://t.me/rezamobiny">@itaidenx</a>  
 - 🐙 **GitHub:** <a href="https://github.com/rezamobiny">@rezamobiny</a>
 
 </div>
@@ -90,3 +92,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&section=footer&color=0:92FE9D,100:00C9FF&height=60" alt="footer" />
 </p>
+ 
